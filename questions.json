@@ -1,0 +1,42 @@
+{
+  "heading": "G9NL_Organising Information Part 2(Writing)",
+  "topics": [
+    {
+      "heading": "Organising Information Part 2(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence using the word “Browbeats”, which means: Intimidates or coerces someone through stern looks, harsh words, or domineering behaviour.",
+          "text_area": "",
+          "answer": ["The tyrant browbeats his ministers into silence whenever they dare to question his decrees."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence using the word “Suasion”, which means: The act of persuading or influencing, often through reasoning or moral appeal rather than force.",
+          "text_area": "",
+          "answer": ["Through gentle suasion, the philosopher persuaded his audience to embrace a life of moderation."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence using the word “Presaged”, which means: Foreshadowed or predicted an event; served as an omen.",
+          "text_area": "",
+          "answer": ["The ominous red sky at dusk presaged the tempest that battered the coast by morning."]
+        },
+       
+         
+         
+   {
+  "questionNo": 4,
+  "type": "long",
+  "question": "<b>Pick a topic from the following list and write a passage about it:</b><ul><li>Mothers are self-sacrificing.</li><li>We can’t live without pets.</li><li>Maths is a weird subject.</li><li>Playing any sport is fun.</li><li>Preparing for a test is worrisome.</li> </ul>Word Limit: 100-200",
+  "text_area": ""
+
+}
+
+      ]
+    }
+  ]
+}
